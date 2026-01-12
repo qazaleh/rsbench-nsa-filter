@@ -1,0 +1,3 @@
+[submodule "rsbench-code"]
+	path = rsbench-code
+	url = https://github.com/unitn-sml/rsbench-code.git
