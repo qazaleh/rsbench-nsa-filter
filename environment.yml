@@ -1,0 +1,17 @@
+name: rsbench-filter
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - tqdm
+  - pyyaml
+  - pip:
+      - wandb
